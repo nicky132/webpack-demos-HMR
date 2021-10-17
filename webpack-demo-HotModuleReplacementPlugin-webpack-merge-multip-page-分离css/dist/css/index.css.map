@@ -1,0 +1,1 @@
+{"version":3,"file":"css/index.css","mappings":";AAAA;IACI,gBAAgB;AACpB;;AAEA;IACI,YAAY;IACZ,gBAAgB;IAChB,wBAAwB,EAAE,cAAc;AAC5C","sources":["webpack://myWebpack/./src/css/style.css"],"sourcesContent":["body {\n    background: gray;\n}\n\n#root div{\n    width: 200px;\n    margin-top: 50px;\n    transform: rotate(45deg); /* 这个属性会产生前缀 */\n}"],"names":[],"sourceRoot":""}
